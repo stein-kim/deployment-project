@@ -1,0 +1,7 @@
+name: flight_delays
+
+python_env: pipeline_env.yaml
+
+entry_points:
+  main:
+    command: "python main.py"
